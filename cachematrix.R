@@ -1,6 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
-
+## JHU - R Programing course - WK2 Assignment 2
+## Lexical Scoping
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
